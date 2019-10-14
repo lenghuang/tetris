@@ -1,0 +1,7 @@
+This is a link to a gist with a useful idea of possible functions we may need by the youtube tutorial, Tech With Tim
+
+https://gist.github.com/lenghuang/55237b58cefbcbaa3bf90ed5e1af6751
+
+This is a link to his youtube tutorial.
+
+https://www.youtube.com/watch?v=uoR4ilCWwKA
